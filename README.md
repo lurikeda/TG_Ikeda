@@ -3,7 +3,7 @@
 ## Feminicídio antes e durante a pandemia do coronavírus
 
 
- Este repositório tem como objetivo guardar os scripts R usados para a manipulação e análises realizadas nos dados de boletins de ocorrência de feminicídio no estado de São Paulo para o trabalho de conclusão de curso da aluna Luri Yasuda Ikeda orientada pela professoraMaria Sílvia de Assis de Moura.
+ Este repositório tem como objetivo guardar os scripts R usados para a manipulação e análises realizadas nos dados de boletins de ocorrência de feminicídio no estado de São Paulo para o trabalho de conclusão de curso da aluna Luri Yasuda Ikeda orientada pela professora Maria Sílvia de Assis de Moura.
 
  Os dados foram baixados do site da Secretaria de Segurança Pública do estado de São Paulo (http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx), eles oferecem dados de boletins de ocorrência desde abril de 2015 até o mês anterior ao download do arquivo.
 
