@@ -195,3 +195,5 @@ teste_prop_nao_branca = prop.test(sum(dados$prop_nao_eh_branca),
                                  prop_nao_eh_branca,
                                  alternative = "greater")
 # valor-p = 3.501*10^-7 --> rejeita H0: a prop_vitima nao brancas eh > prop_populacional nao branca
+
+# PESSOAS NAO BRANCAS TENDEM A SER MAIOR PROPORCAO DE VITIMAS #
