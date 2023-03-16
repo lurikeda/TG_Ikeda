@@ -11,3 +11,4 @@
 
 Descrição dos arquivos:
  - Feminicidio_2015_2022: base de dados do download do site direto, ou seja, sem nenhuma tratativa.
+ - Teste_de_hipotese_para_proporcoes.R: teste de hipóteses para proporções.
